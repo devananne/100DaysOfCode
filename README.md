@@ -1,7 +1,7 @@
 # 100 Days of Code
 While I've always been interested in solving problems with technology, I've decided to finally commit to learning how to do so. While I'm great at the "customer service" aspect of listening to people's problems, understand the complexities behind them, and explain a solution back to them in simple terms, I'd like to learn a bit more about the technicalities of coding, to improve my current and future career prospects.
 <p>I don't have a Twitter, but think this is good enough for me.
-<h2>Day 1 - 28 Nov 2020</h2>
+<h2>1. 28 Nov 2020</h2>
 <p>Spent more than an hour today, because ultimately ended up finding this challenge only at the end of the day. Started about a week ago working through www.freecodecamp.com/. Today got through the following:
   <h4>Javascript | Basic Javascript</h4>
   <p> - Profile Lookup
