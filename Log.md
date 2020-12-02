@@ -2,7 +2,22 @@
 While I've always been interested in solving problems with technology, I've decided to finally commit to learning how to do so. While I'm great at the "customer service" aspect of listening to people's problems, understand the complexities behind them, and explain a solution back to them in simple terms, I'd like to learn a bit more about the technicalities of coding, to improve my current and future career prospects.
 <p>I don't have a Twitter, but think this is good enough for me.
 
-
+<h2>3. 2 December 2020 </h2>
+<p>Well I already failed (twice) at this every day thing. It's hard to convinve myself to code, which requires some mental capacity, after an extra long day at work when I all I want to do is give my brain a break. Today I learned that getters and setters need to go inside the class. I'm really struggling understanding classes, and whether or not the variables and the items passed to a class need to be called the same, since this is what all of the examples are doing. I keep pushing forward hoping that with enough examples it will finally click. </p>
+<p>Similarly, I like the idea of promises, but I don't know what's the point in having them over if/then. Additionally, I don't know that the examples adequatly show what I'm learning, since nothing ends up printing to the console - how do I get these to work? Overall, while these exercises showed almost a copy-paste version of the syntax, I would have preferred to see them in use in an exercise.</p>
+  <h4>Javascript | ES6</h4>
+  <p> - Use getters and setters to Control Access to an Object
+  <br> - Create a Module Script
+  <br> - Use export to Share a Code Block
+  <br> - Reuse JavaScript Code Using import
+  <br> - Use * to Import Everything from a File
+  <br> - Create an Export Fallback with export default
+  <br> - Import a Default Export
+  <br> - Create a JavaScript Promise
+  <br> - Complete a Promise with resolve and reject
+  <br> - Handle a Fulfilled Promise with then
+  <br> - Handle a Rejected Promise with catch
+  
 <h2>2. 29 Nov 2020</h2>
 <p>Today was harder than I was anticipating. These examples seemed less clear than previously, or I wasn't actually understanding whatever the new syntax was actually doing. I struggle through some of these even though they should have been fairly straightforward, as I was really trying to grasp the point of them. 
   <h4>Javascript | ES6</h4>
